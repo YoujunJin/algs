@@ -1,2 +1,2 @@
-# algs
-算法第四版 中文版 笔记
+# algorithm
+Algorithm，算法第4版中文版，自学笔记
